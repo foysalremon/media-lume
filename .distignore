@@ -1,0 +1,35 @@
+# .distignore — files excluded from the plugin distribution zip
+# Used by `wp dist-archive` and similar deployment tools.
+# Keep in sync with .gitignore for dev-only additions.
+
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# This file
+.distignore
+
+# Environment / secrets
+.env
+.env.example
+includes/generated-env.php
+
+# Node / build tooling
+node_modules
+package.json
+package-lock.json
+postcss.config.js
+webpack.config.js
+
+# Build-time scripts
+scripts
+
+# Source files — compiled output lives in build/
+src
+
+# Developer readme — readme.txt is the WP.org-facing one
+README.md
+
+# Assets for plugin page
+assets

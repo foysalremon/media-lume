@@ -1,0 +1,623 @@
+# Copyright (C) 2026 Media Lume
+# This file is distributed under the same license as the Media Lume package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Lume\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Report-Msgid-Bugs-To: https://github.com/foysalremon/media-lume/issues\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-medialume-settings.php:28, includes/class-medialume-settings.php:29
+msgid "MediaLume"
+msgstr ""
+
+#: includes/class-medialume-settings.php:47
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:11
+msgid "About"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:12
+msgid "Providers"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:13
+msgid "Advanced"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:98
+msgid "Settings saved."
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:100
+msgid "Save failed."
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:120
+msgid "Settings sections"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:156
+msgid "Save settings"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:163
+msgid "Saving…"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:163
+msgid "Save Changes"
+msgstr ""
+
+#: src/admin/SettingsApp.jsx:167
+msgid "You have unsaved changes"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:10
+msgid "About Media Lume"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:13
+msgid "Media Lume"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:16
+msgid "Free, open-source AI image generator for WordPress. Generate images directly inside your media library using Pollinations.ai or your own fal.ai API key."
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:30
+msgid "Quick Start"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:35
+msgid "1. Choose a provider"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:36
+msgid "Go to the Providers tab and select Pollinations (free, no key needed) or fal.ai with your own API key."
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:39
+msgid "2. Open Media Library"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:40
+msgid "Open your WordPress Media Library and click the Media Lume panel on the right."
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:43
+msgid "3. Generate"
+msgstr ""
+
+#: src/admin/tabs/AccountTab.jsx:44
+msgid "Enter a prompt, pick a model and size, then click Generate."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:16
+msgid "Square"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:17
+msgid "Landscape"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:18
+msgid "Portrait"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:19
+msgid "Wide"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:77
+msgid "All settings reset to defaults."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:81
+msgid "Failed to reset settings."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:91
+msgid "Wizard reset. Reload any admin page to start."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:93
+msgid "Failed to reset wizard."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:101
+msgid "Generation Defaults"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:104
+msgid "Default Image Size"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:111
+msgid "Default Generation Model"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:142
+msgid "Sets the pre-selected model when the AI panel opens. Users can still change it per generation."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:148
+msgid "Developer"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:153
+msgid "Debug Mode"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:156
+msgid "Log API requests and responses to the browser DevTools console."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:169
+msgid "Danger Zone"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:174
+msgid "Reset All Settings"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:177
+msgid "Resets all plugin settings to defaults."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:182
+msgid "Resetting…"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:184
+msgid "Confirm Reset"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:185
+msgid "Reset Settings"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:192
+msgid "Click \"Confirm Reset\" again to proceed. This cannot be undone."
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:199
+msgid "Re-run Setup Wizard"
+msgstr ""
+
+#: src/admin/tabs/AdvancedTab.jsx:202
+msgid "Reopens the onboarding wizard on the next page load."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:15
+msgid "Active"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:92
+msgid "Pollinations connected — all models unlocked."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:102
+msgid "Could not start Pollinations connect flow."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:109
+msgid "Pollinations disconnected."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:116
+msgid "API key staged — click Save Changes to store it."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:127
+msgid "Connection successful."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:129
+msgid "Connection test failed."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:138
+msgid "Image Provider"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:139
+msgid "Select image provider"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:146
+msgid "All AI models available."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:147
+msgid "Free to use — only 2 FLUX models without an account. Link your free account to unlock all models."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:155
+msgid "✓ Linked — all AI models unlocked."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:158
+msgid "Unlink account"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:165
+msgid "Unlock all AI models with a free Pollinations account"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:169
+msgid "GPT Image 2, Ideogram, Recraft and more"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:170
+msgid "Create a free account at pollinations.ai"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:171
+msgid "Takes about 30 seconds to link"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:185
+msgid "Opening link…"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:186
+msgid "Link my Pollinations account →"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:193
+msgid "Step 2 — enter this code on the page that just opened"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:198
+msgid "Click to copy"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:203
+msgid "✓ Copied"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:203
+msgid "Copy"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:207
+msgid "Didn't open?"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:209
+msgid "Click here"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:211
+msgid "— waiting for approval, this will update automatically."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:221
+msgid "fal.ai — Bring Your Own Key"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:222
+msgid "Use your own fal.ai API key. Access all fal models at your account's rate."
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:228
+msgid "fal.ai API Key"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:232
+msgid "Masked API key"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:236
+msgid "Edit"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:239
+msgid "Testing…"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:239
+msgid "Test"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:257
+msgid "Set Key"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:261
+msgid "Cancel"
+msgstr ""
+
+#: src/admin/tabs/ProvidersTab.jsx:266
+msgid "Get a key at"
+msgstr ""
+
+#: src/App.js:8
+msgid "FLUX.1 Schnell — Fast"
+msgstr ""
+
+#: src/App.js:9
+msgid "FLUX.2 Pro — Trending"
+msgstr ""
+
+#: src/App.js:10
+msgid "Ideogram V3 — Design & Text"
+msgstr ""
+
+#: src/App.js:11
+msgid "Recraft V4.1 — Editorial"
+msgstr ""
+
+#: src/App.js:12
+msgid "Nano Banana 2 — Google"
+msgstr ""
+
+#: src/App.js:23
+msgid "Connect your Pollinations account in Settings to unlock"
+msgstr ""
+
+#: src/App.js:25
+msgid "Up to 768x768 — Connect Pollinations account for larger"
+msgstr ""
+
+#: src/App.js:43
+msgid "Square 1:1"
+msgstr ""
+
+#: src/App.js:44
+msgid "Landscape 4:3"
+msgstr ""
+
+#: src/App.js:45
+msgid "Portrait 3:4"
+msgstr ""
+
+#: src/App.js:46
+msgid "Widescreen 16:9"
+msgstr ""
+
+#: src/App.js:111
+msgid "Generation failed."
+msgstr ""
+
+#: src/App.js:115
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: src/components/GenerateForm.js:5
+msgid "Product shot on a clean white marble surface, soft studio lighting"
+msgstr ""
+
+#: src/components/GenerateForm.js:6
+msgid "Professional headshot, smiling, bright modern office background"
+msgstr ""
+
+#: src/components/GenerateForm.js:7
+msgid "Minimalist hero banner with bold geometric shapes, blue and white"
+msgstr ""
+
+#: src/components/GenerateForm.js:8
+msgid "Cozy coffee shop interior, warm light, bokeh background"
+msgstr ""
+
+#: src/components/GenerateForm.js:9
+msgid "Mountain landscape at golden hour, photorealistic, dramatic sky"
+msgstr ""
+
+#: src/components/GenerateForm.js:10
+msgid "Flat lay of tech accessories on a dark desk, top-down view"
+msgstr ""
+
+#: src/components/GenerateForm.js:31
+msgid "Generate New Image"
+msgstr ""
+
+#: src/components/GenerateForm.js:37
+msgid "Generation Model"
+msgstr ""
+
+#: src/components/GenerateForm.js:42
+msgid "Image Size"
+msgstr ""
+
+#: src/components/GenerateForm.js:48
+msgid "Prompt"
+msgstr ""
+
+#: src/components/GenerateForm.js:57
+msgid "Describe the image you want to generate…"
+msgstr ""
+
+#: src/components/GenerateForm.js:67
+msgid "Try:"
+msgstr ""
+
+#: src/components/GenerateForm.js:89
+msgid "Generating…"
+msgstr ""
+
+#: src/components/GenerateForm.js:89
+msgid "✦ Generate Image"
+msgstr ""
+
+#: src/components/PreviewPanel.js:25
+msgid "Generating your image..."
+msgstr ""
+
+#: src/components/PreviewPanel.js:39
+msgid "Your generated images will appear here"
+msgstr ""
+
+#: src/components/PreviewPanel.js:50
+msgid "Generated image %d"
+msgstr ""
+
+#: src/components/PreviewPanel.js:59
+msgid "Use Image"
+msgstr ""
+
+#: src/components/PreviewPanel.js:68
+msgid "Saved to Media Library — click"
+msgstr ""
+
+#: src/components/PreviewPanel.js:72
+msgid "to insert"
+msgstr ""
+
+#: src/onboarding/OnboardingApp.jsx:110
+msgid "Media Lume Setup Wizard"
+msgstr ""
+
+#: src/onboarding/OnboardingApp.jsx:125
+msgid "Close wizard"
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:50
+msgid "You're all set!"
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:52
+msgid "Media Lume is configured and ready. Start generating images directly from your WordPress media library."
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:60
+msgid "Open Media Library"
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:65
+msgid "Go to Settings"
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:69
+msgid "You can re-run this wizard anytime from "
+msgstr ""
+
+#: src/onboarding/steps/Complete.jsx:70
+msgid "Settings → Advanced → Re-run Setup Wizard"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:6
+msgid "A futuristic city skyline at golden hour, photorealistic"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:7
+msgid "Minimalist product photo of a white ceramic mug on a marble table"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:8
+msgid "Watercolor painting of a mountain lake at dawn"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:32
+msgid "No image returned."
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:35
+msgid "Generation failed. Please try again."
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:43
+msgid "Try Your First Generation"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:45
+msgid "Enter a prompt below and watch Media Lume create an image in seconds."
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:63
+msgid "Describe the image you want to create…"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:88
+msgid "✓ Saved to media library"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:95
+msgid "Generating your image…"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:102
+msgid "← Back"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:107
+msgid "Continue →"
+msgstr ""
+
+#: src/onboarding/steps/FirstGeneration.jsx:107
+msgid "Skip for now"
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:8
+msgid "Pollinations.ai"
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:9
+msgid "No API key needed. Link a free account to unlock all models."
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:14
+msgid "Use your own fal.ai API key for direct access to all fal models at your account's rate."
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:38
+msgid "Connection successful!"
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:40
+msgid "Connection failed."
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:61
+msgid "Set Up Your Provider"
+msgstr ""
+
+#: src/onboarding/steps/ProviderSetup.jsx:63
+msgid "Choose where your images are generated. You can change this anytime in Settings → Providers."
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:15
+msgid "Welcome to Media Lume"
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:17
+msgid "Generate stunning AI images directly inside your WordPress media library — free, no account required. Let's get you set up in under two minutes."
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:22
+msgid "Generate"
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:22
+msgid "Create production-ready images from plain text prompts."
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:23
+msgid "Free to use"
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:23
+msgid "Powered by Pollinations.ai — no API key needed to start."
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:24
+msgid "Manage"
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:24
+msgid "Images live in your media library — no extra plugins needed."
+msgstr ""
+
+#: src/onboarding/steps/Welcome.jsx:42
+msgid "Let's go →"
+msgstr ""
