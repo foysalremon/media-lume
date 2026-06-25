@@ -75,6 +75,8 @@ No data is sent to either service unless you actively click "Generate." API keys
 This plugin is open source. Full source code including all build tools and uncompiled JavaScript is available at:
 https://github.com/foysalremon/media-lume
 
+To rebuild the compiled assets from source: npm install && npm run build
+
 == Installation ==
 
 = Automatic installation =
