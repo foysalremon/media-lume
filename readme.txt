@@ -156,10 +156,16 @@ No. Images that have already been saved to your Media Library remain there after
 
 == Changelog ==
 
+= 1.0.1 =
+* Improved WordPress.org readme: updated title, tags, short description, and added featured image FAQ
+
 = 1.0.0 =
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+No code changes — readme improvements only.
 
 = 1.0.0 =
 Initial release.

@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Media Lume — AI Image Generator
  * Description:       AI image generator for WordPress media library.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.0
  * Requires PHP:      7.4
  * Author:            Coden Hex

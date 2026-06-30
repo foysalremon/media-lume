@@ -1,6 +1,6 @@
 {
   "name": "media-lume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI image generation directly on WordPress Media Library",
   "main": "index.js",
   "scripts": {
